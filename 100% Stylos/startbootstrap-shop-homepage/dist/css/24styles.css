@@ -1,0 +1,26 @@
+.supp-copy24{
+    display: grid; 
+    margin: 0 1% 0 1%;
+}
+
+.support24{
+    color: white;
+    margin-bottom: 1%;
+    text-align: center;
+}
+
+.support-marcas24{
+    margin-top: 1%;
+}
+
+.img-marcas24{
+    margin-right: 10px;
+    max-width: 150px;
+    max-height: 100px;
+    border-radius:5px;
+    margin: 3px 3px 3px 3px;
+}
+
+.copyright24{
+    color: white;
+}
